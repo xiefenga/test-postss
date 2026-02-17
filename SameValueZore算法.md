@@ -2,7 +2,7 @@
 title: SameValueZore算法
 created: 2025-12-16T06:38:41.746Z
 updated: 2025-12-16T06:38:41.746Z
-slug: SameValueZore算法
+slug: samevaluezoresuan-fa
 tags: []
 description: ""
 ---

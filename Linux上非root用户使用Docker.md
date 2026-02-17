@@ -2,7 +2,7 @@
 title: Linux上非root用户使用Docker
 created: 2025-12-16T06:38:41.661Z
 updated: 2025-12-16T06:38:41.661Z
-slug: Linux上非root用户使用Docker
+slug: linuxshang-fei-rootyong-hu-shi-yong-docker
 tags: []
 description: ""
 ---

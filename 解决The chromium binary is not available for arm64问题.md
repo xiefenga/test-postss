@@ -2,7 +2,7 @@
 title: 解决The chromium binary is not available for arm64问题
 created: 2025-12-16T06:38:42.007Z
 updated: 2025-12-16T06:38:42.007Z
-slug: 解决The chromium binary is not available for arm64问题
+slug: jie-jue-the-chromium-binary-is-not-available-for-arm64wen-ti
 tags: []
 description: ""
 ---

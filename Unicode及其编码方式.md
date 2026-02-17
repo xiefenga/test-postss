@@ -2,7 +2,7 @@
 title: Unicode及其编码方式
 created: 2025-12-16T06:38:41.832Z
 updated: 2025-12-16T06:38:41.832Z
-slug: Unicode及其编码方式
+slug: unicodeji-qi-bian-ma-fang-shi
 tags: []
 description: ""
 ---

@@ -2,7 +2,7 @@
 title: Android持久化存储和权限
 created: 2025-12-16T06:38:41.580Z
 updated: 2025-12-16T06:38:41.580Z
-slug: Android持久化存储和权限
+slug: androidchi-jiu-hua-cun-chu-he-quan-xian
 tags: []
 description: ""
 ---

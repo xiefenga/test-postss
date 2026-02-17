@@ -2,7 +2,7 @@
 title: Docker配置代理
 created: 2025-12-16T06:38:42.255Z
 updated: 2025-12-16T06:38:42.255Z
-slug: Docker配置代理
+slug: dockerpei-zhi-dai-li
 tags: []
 description: ""
 ---

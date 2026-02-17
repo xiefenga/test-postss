@@ -2,7 +2,7 @@
 title: 协变与逆变——以TypeScript为例
 created: 2026-01-13T13:19:58.684Z
 updated: 2026-01-13T13:19:58.684Z
-slug: 协变与逆变——以TypeScript为例
+slug: xie-bian-yu-ni-bian-yi-typescriptwei-li
 tags: []
 description: ""
 ---
